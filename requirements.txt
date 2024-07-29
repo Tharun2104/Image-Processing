@@ -1,0 +1,9 @@
+cmake
+ipython
+jupyter
+jupyter-book
+matplotlib
+numpy
+opencv-contrib-python
+scikit-learn
+scipy
